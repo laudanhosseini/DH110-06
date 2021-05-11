@@ -34,7 +34,8 @@ This is the second most important part of the application, as this is where the 
 
 ## Design Variations 
 ### Library Tab 
-![Color Scheme #1](
+![Color Scheme #1](https://github.com/laudanhosseini/DH110-06/blob/f715241641131de7a0591e60f9e3bdd02e17f4d7/Color%20Scheme%20%231.png) 
+![Color Scheme #2](
 
 
 ## Impression Test 
