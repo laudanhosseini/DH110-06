@@ -30,7 +30,7 @@ This is the second most important part of the application, as this is where the 
 ![task 1](https://github.com/laudanhosseini/DH110-06/blob/8774cb4b2a9fff6483aebb146aaf198c33647171/task%201.png) 
 
 ### Task 2
-
+![task 2](https://github.com/laudanhosseini/DH110-06/blob/8774cb4b2a9fff6483aebb146aaf198c33647171/task%201.png) 
 
 ## Impression Test 
 
