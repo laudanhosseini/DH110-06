@@ -34,7 +34,7 @@ This is the second most important part of the application, as this is where the 
 
 ## Design Variations 
 ### Library Tab 
-![Color Scheme #1](https://github.com/laudanhosseini/DH110-06/blob/f715241641131de7a0591e60f9e3bdd02e17f4d7/Color%20Scheme%20%231.png){:height="700px" width="400px"} 
+![Color Scheme #1](https://github.com/laudanhosseini/DH110-06/blob/f715241641131de7a0591e60f9e3bdd02e17f4d7/Color%20Scheme%20%231.png)
 ![Color Scheme #2](https://github.com/laudanhosseini/DH110-06/blob/d60e72723211b653e26c8bea576224e76d77b1d7/Color%20Scheme%20%232.png) 
 ![Color Scheme #3](https://github.com/laudanhosseini/DH110-06/blob/fa973c5292189d90e6b88fd2d12e01088028c2d3/iPhone%2011%20Pro%20Max%20-%202%20(1).png)
 
