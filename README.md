@@ -27,7 +27,7 @@ This is the second most important part of the application, as this is where the 
 
 ## Wireframes
 ### Task 1
-![dh 110 #6](
+![dh 110 #6](https://github.com/laudanhosseini/DH110-06/blob/567f152af924422e57d745f165906b68b61d6e08/dh%20110%20%236.pdf) 
 
 ### Task 2
 
