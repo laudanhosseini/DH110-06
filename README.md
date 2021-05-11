@@ -32,6 +32,11 @@ This is the second most important part of the application, as this is where the 
 ### Task 2
 ![task 2](https://github.com/laudanhosseini/DH110-06/blob/c6b585a6973625472d45a05c84cdd8775f4f0164/task%202.png) 
 
+## Design Variations 
+### Library Tab 
+![Color Scheme #1](
+
+
 ## Impression Test 
 
 ## Color-Contrast Check 
