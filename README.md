@@ -27,9 +27,10 @@ This is the second most important part of the application, as this is where the 
 
 ## Wireframes
 ### Task 1
-![dh 110 #6](https://github.com/laudanhosseini/DH110-06/blob/567f152af924422e57d745f165906b68b61d6e08/dh%20110%20%236.pdf) 
+![task 1](https://github.com/laudanhosseini/DH110-06/blob/8774cb4b2a9fff6483aebb146aaf198c33647171/task%201.png) 
 
 ### Task 2
+
 
 ## Impression Test 
 
