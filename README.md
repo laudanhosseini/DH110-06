@@ -49,3 +49,24 @@ This is the second most important part of the application, as this is where the 
 ![Color Contrast Check](https://github.com/laudanhosseini/DH110-06/blob/3d9d8676ab7ece1e72e8e50b726ebb513d6c1999/Color%20Contrast%20Check.png) 
 
 ## Design System 
+**Typeface:** Oxanium 
+    **Size:** ranging from 12 or 14 for small additions to the pages (Login, See All, Sort By, Support Bar, etc.) 
+              font size 18 for labels on buttons on page 2 and "Currently Listening To" on page 1
+              font size 24 for titles "Made for You" and "Good Afternoon" on page 1
+              font size 30 for titles of boxes on page 3
+              font size for 48 for main headers 
+       I liked this typeface for the application because I thought it fit the energy of reading pretty well, but it still was something more fun and dynamic than using a basic font like Times New Roman. In addition, at the top right corner of each page, I included a small "aA" button, and this was particularly for senior citizens. This feature allows users to change the size of the font in the app from bigger to smaller, which helps senior citizens as many struggle with blurry vision when looking up close at screens. 
+       
+              
+**Color Scheme:** 
+    **Background:** Shade is Light Orange (F8B16F) 
+    **Primary Text:** Black (000000)
+    **Supplementary Text:** Light Charcoal Gray (6A6A6A) 
+    **Buttons on Page 2 and Page 3:** Light Gray at 46% Opacity (B2B2B2)
+ I wanted to keep the orange theme as was put originally in this app to retain some of its main aesthetic elements, but I chose a paler orange shade because I think that it brightened up the pages versus the dark orange that was used. 
+
+**Layout:**
+    **Page 1:** Recreating a homepage, so at the top there would be the title of the application and information on how to login or immediately search for content. Then I wanted to lead into different tabs filled with general information so it would be one of the first things the user sees; I included "My Books", "Bookstore", "Account", and "Settings". Then, I wanted the user to be able to access the book that was currently being listened to, so I created a section for that underneath the tabs. Next, I wanted the user to be able to browse on the homepage, as this is similar to what other audiobook applications have done and also what Spotify looks like (and I think the Spotify app is very well designed). Thus, I added in a "Made for You" section that is based on an algorithm that picks up onwhat type of content the reader gravitate towards. I think this personalized touch helps keep users engaged with the app and continuing to search for new content to purchase. I also included a "New Releases" section so the user could be kept up to date on recently published books or new books that were added onto the application. I wanted to include the big plus sign that Audiobooks HQ originally had because I think that it was a nice little addition for users to quickly access the search bar or bookstore. Lastly, I included a settings bar at the bottom of the page because I saw Audible does this and think that it is a good way for users to find more help if needed. Here, I included tabs on basic information such as "About", "Conditions of Use", "FAQs", and "Contact Us". 
+    **Page 2:** I wanted to create a completely separate page for organizing downloaded content because it was confusing to have that right on the homepage when the user clicked to enter the application. I wanted to integrate more interactive and dynamic elements, so I arranged the different tabs of organization in bubbles that the user could click on. This also makes it large and visible for older-aged users to be able to just quickly see which area of their content they want to access. I also included a button called "Add New" that would take users to the bookstore immediately so they wouldn't have to go all the way back to the homepage and then click to go to the Bookstore. 
+    **Page 3:** This page is for the bookstore where users can search for what they are looking for. I wanted to include a lot of the filters that Audiobooks HQ had originally, but I removed a couple that I deemed to be unnecessary. I also included an alphabet that users could search based on either Title or Author so they could browse based on letters if needed. 
+    
