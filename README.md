@@ -18,9 +18,9 @@ Additional tasks that this high-fidelity prototype supports:
 
 3) clarifying the homepage 
 
-5) clarifying the separate tabs for separate functions 
+4) clarifying the separate tabs for separate functions 
 
-7) finding the settings + FAQ section 
+5) finding the settings + FAQ section 
 
 ## Tasks 
 ### Task 1: Navigating the Search Bar 
