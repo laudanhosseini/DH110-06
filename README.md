@@ -49,7 +49,7 @@ This is the second most important part of the application, as this is where the 
 ![Color Contrast Check](https://github.com/laudanhosseini/DH110-06/blob/3d9d8676ab7ece1e72e8e50b726ebb513d6c1999/Color%20Contrast%20Check.png) 
 
 ## Design System 
-**Typeface:** Oxanium 
+* **Typeface:** Oxanium 
     **Size:** ranging from 12 or 14 for small additions to the pages (Login, See All, Sort By, Support Bar, etc.) 
               font size 18 for labels on buttons on page 2 and "Currently Listening To" on page 1
               font size 24 for titles "Made for You" and "Good Afternoon" on page 1
