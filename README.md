@@ -1,5 +1,5 @@
 # Interactive Prototype 
-## Laudan Hosseini DH110-06
+## Laudan Hosseini, DH110-06
 
 ## Introduction 
 This project represents a high-fidelity, interactive prototype that makes revisions on the application, Audiobooks HQ.
