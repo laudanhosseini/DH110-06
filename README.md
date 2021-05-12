@@ -11,9 +11,11 @@ The purpose of developing this interactive prototype is to visualize the revisio
 The revisions made to create this high-fidelity prototype were first evaluated through heurisitc evaluation, usability testing, and contextual inquiry. These steps established the basic and initial reactions to the usability of the application. Then, a low-fidelity prototype was created that included wireframe and wireflow sketches to get down the basic features of the app that needed the most improvement. The rough sketches of the wireframes went through prototype testing to get feedback on if the revisions were on the right track, leading us to the development of the high-fidelity prototype. The prototype was created using the tool Figma, and it consists of three wireframes that support the following tasks: 
 
 **1) Navigating the search bar 
+
 2) Organizing downloaded/purchased content**
 
 Additional tasks that this high-fidelity prototype supports: 
+
 3) clarifying the homepage 
 
 5) clarifying the separate tabs for separate functions 
