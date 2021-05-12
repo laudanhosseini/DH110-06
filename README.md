@@ -42,5 +42,6 @@ This is the second most important part of the application, as this is where the 
 ## Impression Test 
 
 ## Color-Contrast Check 
+![Color Contrast Check](https://github.com/laudanhosseini/DH110-06/blob/3d9d8676ab7ece1e72e8e50b726ebb513d6c1999/Color%20Contrast%20Check.png) 
 
 ## Design System 
