@@ -46,6 +46,15 @@ This is the second most important part of the application, as this is where the 
 
 
 ## Impression Test 
+The participant did not want to be video or audio recorded, but I walked them through an initial impression test and documented some of her reactions that I found to be most important:
+* "I think that I would like an addition of different colors of orange to add more dimension"
+* "I really like how you put the pictures of books on the homepage and on those buttons"
+* "I would maybe choose a different layout for the last page, I like how you separate the filters into buttons but I would maybe mimick the layout as the page with the buttons for organizing content"
+* "This is now definitely easier to see how to search for something than the first time you showed me the application"
+* "I like the inclusion of the "Add New" button"
+* "I would maybe use a different plus sign on the homepage because it is bulky compared to the rest of the aesthetic"
+
+**Summary:** I found her impression test to be incredibly helpful, as she was also the participant in the contextual inquiry assignment. She definitely noticed a lot of improvements compared to the original app; when she first used the app, she was very confused on how to initially search for books, but she noted how much easier it was to do that with this prototype. I also appreciated her comments on the aesthetics of the app, such as with the slight changes in the orange color scheme and the change in the layout for the search bar page. I will definitely take these into account and refine the prototype further for enhancements. 
 
 ## Color-Contrast Check 
 ![Color Contrast Check](https://github.com/laudanhosseini/DH110-06/blob/3d9d8676ab7ece1e72e8e50b726ebb513d6c1999/Color%20Contrast%20Check.png) 
