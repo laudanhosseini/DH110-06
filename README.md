@@ -33,10 +33,10 @@ This is the second most important part of the application, as this is where the 
 [Here](https://www.figma.com/file/6XmInbhmQDJD6D55uRPXmR/DH-110-6?node-id=1%3A2), you can access the Figma prototype directly. 
 
 ### Task 1
-![task 1](https://github.com/laudanhosseini/DH110-06/blob/8774cb4b2a9fff6483aebb146aaf198c33647171/task%201.png) 
+![task 1](
 
 ### Task 2
-![task 2](https://github.com/laudanhosseini/DH110-06/blob/c6b585a6973625472d45a05c84cdd8775f4f0164/task%202.png) 
+![task 2](
 
 ## Wireflows
 
