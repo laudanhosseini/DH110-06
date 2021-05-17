@@ -48,7 +48,8 @@ This is the second most important part of the application, as this is where the 
 ## Interactive Prototype
 [Here](https://www.figma.com/proto/6XmInbhmQDJD6D55uRPXmR/Task-1-DH-110-6?scaling=scale-down&page-id=0%3A1&node-id=1%3A2), you can access the interactive prototype. 
 
-## Design Variations (note: these variations are from the old prototype; the finalized version is different from these, as the final version is based on the suggestions made during the impression test and cognitive walkthrough)
+## Design Variations 
+(note: these variations are from the old prototype; the finalized version is different from these, as the final version is based on the suggestions made during the impression test and cognitive walkthrough)
 ### Library Tab 
 ![Color Scheme #1](https://github.com/laudanhosseini/DH110-06/blob/f715241641131de7a0591e60f9e3bdd02e17f4d7/Color%20Scheme%20%231.png)
 ![Color Scheme #2](https://github.com/laudanhosseini/DH110-06/blob/d60e72723211b653e26c8bea576224e76d77b1d7/Color%20Scheme%20%232.png) 
@@ -71,8 +72,37 @@ The participant did not want to be video or audio recorded, but I walked them th
 
 ## Cognitive Walkthrough 
 
+### Goal
+The goal for this user's cognitive walkthrough is to complete two main tasks regarding the prototype for the application, Audiobooks HQ. The tasks include (1) navigating the search bar of the app and (2) organizing any downloaded or purchased content. 
 
-## Design System (note: this is for the old version; the revisions made to the design system is noted in the reflections sections)
+### Tasks 
+This is the script that I had set up for my user to help guide her through the navigation of the application. 
+
+**Task 1: Navigating the Search Bar**
+* click to enter the application 
+* click either on "Find Books Now!", "Bookstore", "See All" under the New Noteworthy, or plus sign at the bottom of the homepage
+* click on either "Search", one of the letters of the alphabets, or one of the filters listed 
+* if clicked on "Search", type in the title of the book desired or the author 
+* if clicked on one of the filters, scroll through to find the desired book 
+
+**Task 2: Organizing Downloaded or Purchased Content**
+* click to enter the application 
+* click either on "My Books", "See All" next to New + Noteworthy, or "See All" next to Made for You
+* if clicked on "My Books", select one of the categories 
+* once category selected, scroll through options or click "See More" to see more options
+
+### Findings
+* Were you able to complete the tasks?
+    * Yes
+* From 1 to 10 (with 1 being the easiest), how difficult did you find each task to complete?
+    * Task 1 = 2
+    * Task 2 = 1
+* Are there any suggestions you have for each task to make it more user friendly?
+    * No, both tasks were very easy to complete. This was a strong improvement from the usability of the original application, where it was very difficult for me to find the search bar initially and successfully accomplish the first task. 
+
+
+## Design System 
+(note: this is for the old version; the revisions made to the design system is noted in the reflections sections)
 * **Typeface:** Oxanium 
     * **Size:** ranging from 12 or 14 for small additions to the pages (Login, See All, Sort By, Support Bar, etc.) 
               font size 18 for labels on buttons on page 2 and "Currently Listening To" on page 1
