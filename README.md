@@ -72,7 +72,7 @@ The participant did not want to be video or audio recorded, but I walked them th
 ## Cognitive Walkthrough 
 
 
-## Design System 
+## Design System (note: this is for the old version; the revisions made to the design system is noted in the reflections sections)
 * **Typeface:** Oxanium 
     * **Size:** ranging from 12 or 14 for small additions to the pages (Login, See All, Sort By, Support Bar, etc.) 
               font size 18 for labels on buttons on page 2 and "Currently Listening To" on page 1
