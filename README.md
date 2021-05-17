@@ -39,10 +39,10 @@ This is the second most important part of the application, as this is where the 
 ![task 2](https://github.com/laudanhosseini/DH110-06/blob/c6b585a6973625472d45a05c84cdd8775f4f0164/task%202.png) 
 
 ## Wireflows
-### The wireflow was created using the plugin "Autoflow", and the black arrows represent **Task 1** and the blue arrows represent **Task 2**. 
+
 ![wireflow task 1](https://github.com/laudanhosseini/DH110-06/blob/2440ada8bde6f37facaf86aeef4ec5779684cdba/Wireflow%20Task%201.png)
 
-![wireflow task 2](
+![wireflow task 2](https://github.com/laudanhosseini/DH110-06/blob/cd2c029c264a4d632280f61b56d92d94f76009a1/Wireflow%20Task%202.png) 
 
 ## Design Variations 
 ### Library Tab 
