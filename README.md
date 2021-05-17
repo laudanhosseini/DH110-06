@@ -39,6 +39,7 @@ This is the second most important part of the application, as this is where the 
 ![task 2](https://github.com/laudanhosseini/DH110-06/blob/c6b585a6973625472d45a05c84cdd8775f4f0164/task%202.png) 
 
 ## Wireflows
+### The wireflow was created using the plugin "Autoflow", and the black arrows represent **Task 1** and the blue arrows represent **Task 2**. 
 ![wireflow](https://github.com/laudanhosseini/DH110-06/blob/27bfeca0a8041855e326ca4b74569d0442bbacac/Wireflow%20Task%201%20+%202.png)
 
 ## Design Variations 
@@ -71,6 +72,9 @@ The participant did not want to be video or audio recorded, but I walked them th
               font size for 48 for main headers 
        I liked this typeface for the application because I thought it fit the energy of reading pretty well, but it still was something more fun and dynamic than using a basic font like Times New Roman. In addition, at the top right corner of each page, I included a small "aA" button, and this was particularly for senior citizens. This feature allows users to change the size of the font in the app from bigger to smaller, which helps senior citizens as many struggle with blurry vision when looking up close at screens. 
        
+## Cognitive Walkthrough 
+
+       
               
 * **Color Scheme:** 
     * **Background:** Shade is Light Orange (F8B16F) 
@@ -83,4 +87,8 @@ The participant did not want to be video or audio recorded, but I walked them th
     * **Page 1:** Recreating a homepage, so at the top there would be the title of the application and information on how to login or immediately search for content. Then I wanted to lead into different tabs filled with general information so it would be one of the first things the user sees; I included "My Books", "Bookstore", "Account", and "Settings". Then, I wanted the user to be able to access the book that was currently being listened to, so I created a section for that underneath the tabs. Next, I wanted the user to be able to browse on the homepage, as this is similar to what other audiobook applications have done and also what Spotify looks like (and I think the Spotify app is very well designed). Thus, I added in a "Made for You" section that is based on an algorithm that picks up onwhat type of content the reader gravitate towards. I think this personalized touch helps keep users engaged with the app and continuing to search for new content to purchase. I also included a "New Releases" section so the user could be kept up to date on recently published books or new books that were added onto the application. I wanted to include the big plus sign that Audiobooks HQ originally had because I think that it was a nice little addition for users to quickly access the search bar or bookstore. Lastly, I included a settings bar at the bottom of the page because I saw Audible does this and think that it is a good way for users to find more help if needed. Here, I included tabs on basic information such as "About", "Conditions of Use", "FAQs", and "Contact Us". 
     * **Page 2:** I wanted to create a completely separate page for organizing downloaded content because it was confusing to have that right on the homepage when the user clicked to enter the application. I wanted to integrate more interactive and dynamic elements, so I arranged the different tabs of organization in bubbles that the user could click on. This also makes it large and visible for older-aged users to be able to just quickly see which area of their content they want to access. I also included a button called "Add New" that would take users to the bookstore immediately so they wouldn't have to go all the way back to the homepage and then click to go to the Bookstore. 
     * **Page 3:** This page is for the bookstore where users can search for what they are looking for. I wanted to include a lot of the filters that Audiobooks HQ had originally, but I removed a couple that I deemed to be unnecessary. I also included an alphabet that users could search based on either Title or Author so they could browse based on letters if needed. 
-    
+
+## Reflection
+    * changed color scheme 
+    * added arrows to "Made for You" and "New Releases" so you can scroll sideways to see more options
+    * added more wireframes to create a more holistic picture of the interactive prototype 
