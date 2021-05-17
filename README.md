@@ -97,4 +97,4 @@ The participant did not want to be video or audio recorded, but I walked them th
   ### Old Wireframes
 ![OLD task 1](https://github.com/laudanhosseini/DH110-06/blob/8af623cae2ec29e08ade308f53d663a00fecb058/task%201.png)
 
-![OLD task 2](
+![OLD task 2](https://github.com/laudanhosseini/DH110-06/blob/d488ecdd2771e272368024fac25d3cd52f2bdf63/task%202.png) 
