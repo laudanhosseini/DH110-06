@@ -95,6 +95,6 @@ The participant did not want to be video or audio recorded, but I walked them th
     * added arrows to "Made for You" and "New Releases" so you can scroll sideways to see more options
     * added more wireframes to create a more holistic picture of the interactive prototype 
   ### Old Wireframes
-![OLD task 1](
+![OLD task 1](https://github.com/laudanhosseini/DH110-06/blob/8af623cae2ec29e08ade308f53d663a00fecb058/task%201.png)
 
 ![OLD task 2](
