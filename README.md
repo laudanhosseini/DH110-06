@@ -45,7 +45,10 @@ This is the second most important part of the application, as this is where the 
    **Task 2**
 ![wireflow task 2](https://github.com/laudanhosseini/DH110-06/blob/cd2c029c264a4d632280f61b56d92d94f76009a1/Wireflow%20Task%202.png) 
 
-## Design Variations 
+## Interactive Prototype
+[Here](https://www.figma.com/proto/6XmInbhmQDJD6D55uRPXmR/Task-1-DH-110-6?scaling=scale-down&page-id=0%3A1&node-id=1%3A2), you can access the interactive prototype. 
+
+## Design Variations (note: these variations are from the old prototype; the finalized version is different from these, as the final version is based on the suggestions made during the impression test and cognitive walkthrough)
 ### Library Tab 
 ![Color Scheme #1](https://github.com/laudanhosseini/DH110-06/blob/f715241641131de7a0591e60f9e3bdd02e17f4d7/Color%20Scheme%20%231.png)
 ![Color Scheme #2](https://github.com/laudanhosseini/DH110-06/blob/d60e72723211b653e26c8bea576224e76d77b1d7/Color%20Scheme%20%232.png) 
