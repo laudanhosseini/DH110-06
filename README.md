@@ -36,7 +36,7 @@ This is the second most important part of the application, as this is where the 
 ![task 1](https://github.com/laudanhosseini/DH110-06/blob/afc59d0aad9cf53393db6dc877c30bc6a5b4a788/wireframe%20task%201.png)
 
 ### Task 2
-![task 2](
+![task 2](https://github.com/laudanhosseini/DH110-06/blob/c853af6de37c021a0d1e78ad411119a24fe84916/Wireframe%20task%202.png) 
 
 ## Wireflows
 
@@ -94,3 +94,7 @@ The participant did not want to be video or audio recorded, but I walked them th
     * changed color scheme 
     * added arrows to "Made for You" and "New Releases" so you can scroll sideways to see more options
     * added more wireframes to create a more holistic picture of the interactive prototype 
+  ### Old Wireframes
+![OLD task 1](
+
+![OLD task 2](
