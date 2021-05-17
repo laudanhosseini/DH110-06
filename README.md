@@ -39,7 +39,9 @@ This is the second most important part of the application, as this is where the 
 ![task 2](https://github.com/laudanhosseini/DH110-06/blob/c6b585a6973625472d45a05c84cdd8775f4f0164/task%202.png) 
 
 ## Wireflows
-![wireflow task #1]
+![wireflow task #1](https://github.com/laudanhosseini/DH110-06/blob/07712472bdc6d40a52e4d08d5ed80106b42578ac/Screen%20Shot%202021-05-16%20at%208.08.31%20PM.png)
+
+![wireflow task #2] 
 
 ## Design Variations 
 ### Library Tab 
