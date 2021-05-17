@@ -33,7 +33,7 @@ This is the second most important part of the application, as this is where the 
 [Here](https://www.figma.com/file/6XmInbhmQDJD6D55uRPXmR/DH-110-6?node-id=1%3A2), you can access the Figma prototype directly. 
 
 ### Task 1
-![task 1](
+![task 1](https://github.com/laudanhosseini/DH110-06/blob/afc59d0aad9cf53393db6dc877c30bc6a5b4a788/wireframe%20task%201.png)
 
 ### Task 2
 ![task 2](
