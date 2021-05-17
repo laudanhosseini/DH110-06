@@ -39,9 +39,10 @@ This is the second most important part of the application, as this is where the 
 ![task 2](https://github.com/laudanhosseini/DH110-06/blob/c853af6de37c021a0d1e78ad411119a24fe84916/Wireframe%20task%202.png) 
 
 ## Wireflows
-
+   **Task 1**
 ![wireflow task 1](https://github.com/laudanhosseini/DH110-06/blob/2440ada8bde6f37facaf86aeef4ec5779684cdba/Wireflow%20Task%201.png)
 
+   **Task 2**
 ![wireflow task 2](https://github.com/laudanhosseini/DH110-06/blob/cd2c029c264a4d632280f61b56d92d94f76009a1/Wireflow%20Task%202.png) 
 
 ## Design Variations 
@@ -65,6 +66,9 @@ The participant did not want to be video or audio recorded, but I walked them th
 ## Color-Contrast Check 
 ![Color Contrast Check](https://github.com/laudanhosseini/DH110-06/blob/3d9d8676ab7ece1e72e8e50b726ebb513d6c1999/Color%20Contrast%20Check.png) 
 
+## Cognitive Walkthrough 
+
+
 ## Design System 
 * **Typeface:** Oxanium 
     * **Size:** ranging from 12 or 14 for small additions to the pages (Login, See All, Sort By, Support Bar, etc.) 
@@ -73,11 +77,7 @@ The participant did not want to be video or audio recorded, but I walked them th
               font size 30 for titles of boxes on page 3
               font size for 48 for main headers 
        I liked this typeface for the application because I thought it fit the energy of reading pretty well, but it still was something more fun and dynamic than using a basic font like Times New Roman. In addition, at the top right corner of each page, I included a small "aA" button, and this was particularly for senior citizens. This feature allows users to change the size of the font in the app from bigger to smaller, which helps senior citizens as many struggle with blurry vision when looking up close at screens. 
-       
-## Cognitive Walkthrough 
-
-       
-              
+                     
 * **Color Scheme:** 
     * **Background:** Shade is Light Orange (F8B16F) 
     * **Primary Text:** Black (000000)
@@ -91,10 +91,12 @@ The participant did not want to be video or audio recorded, but I walked them th
     * **Page 3:** This page is for the bookstore where users can search for what they are looking for. I wanted to include a lot of the filters that Audiobooks HQ had originally, but I removed a couple that I deemed to be unnecessary. I also included an alphabet that users could search based on either Title or Author so they could browse based on letters if needed. 
 
 ## Reflection
-    * changed color scheme 
-    * added arrows to "Made for You" and "New Releases" so you can scroll sideways to see more options
-    * added more wireframes to create a more holistic picture of the interactive prototype 
+   * changed color scheme 
+   * added arrows to "Made for You" and "New Releases" so you can scroll sideways to see more options
+   * added more wireframes to create a more holistic picture of the interactive prototype 
   ### Old Wireframes
+**Task 1**
 ![OLD task 1](https://github.com/laudanhosseini/DH110-06/blob/8af623cae2ec29e08ade308f53d663a00fecb058/task%201.png)
 
+**Task 2**
 ![OLD task 2](https://github.com/laudanhosseini/DH110-06/blob/d488ecdd2771e272368024fac25d3cd52f2bdf63/task%202.png) 
