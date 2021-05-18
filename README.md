@@ -124,6 +124,7 @@ This week, I took into account what my participant said during the Impression Te
    * changed color scheme from orange background to a more neutral, grey background with orange accents (less harsh on the eye)
    * added arrows to "Made for You" and "New Releases" so you can scroll sideways to see more options for more books
    * added more wireframes to create a more holistic picture of the interactive prototype 
+ 
 I wanted to add a more detailed wireframe and wireflow for each task so that the user can engage with the interactions and actually try to complete the tasks, as this was essential for the cognitive walkthrough. The walkthrough went much smoother than anticipated, and I am very pleased with how my prototype turned out as a result. The participant was able to really pretend to be a user and was able to complete the tasks efficiently and successfully. Pictured below are the old wireframes to show the changes that I made this week. Moving forward, I will try to refine a couple more things based on aesthetics, such as by finding a more refined "plus sign" graphic for the homepage. I will also potentially add a few more interactions to the prototype to create an even more detailed and holistic perception of the application. 
 
   ### Old Wireframes
