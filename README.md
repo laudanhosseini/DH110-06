@@ -50,9 +50,7 @@ This is the second most important part of the application, as this is where the 
 
 ## Design Variations 
 (note: these variations are from the old prototype; the finalized version is different from these, as the final version is based on the suggestions made during the impression test and cognitive walkthrough)
-### Library Tab 
 ![design variations](https://github.com/laudanhosseini/DH110-06/blob/f09f2191e3cda143f8256ba51f3f347d4657d35d/Screen%20Shot%202021-05-18%20at%201.33.11%20PM.png)
-
 
 ## Impression Test 
 The participant did not want to be video or audio recorded, but I walked them through an initial impression test and documented some of her reactions that I found to be most important:
