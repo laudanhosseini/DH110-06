@@ -51,9 +51,7 @@ This is the second most important part of the application, as this is where the 
 ## Design Variations 
 (note: these variations are from the old prototype; the finalized version is different from these, as the final version is based on the suggestions made during the impression test and cognitive walkthrough)
 ### Library Tab 
-![Color Scheme #1](https://github.com/laudanhosseini/DH110-06/blob/f715241641131de7a0591e60f9e3bdd02e17f4d7/Color%20Scheme%20%231.png)
-![Color Scheme #2](https://github.com/laudanhosseini/DH110-06/blob/d60e72723211b653e26c8bea576224e76d77b1d7/Color%20Scheme%20%232.png) 
-![Color Scheme #3](https://github.com/laudanhosseini/DH110-06/blob/fa973c5292189d90e6b88fd2d12e01088028c2d3/iPhone%2011%20Pro%20Max%20-%202%20(1).png)
+![design variations](https://github.com/laudanhosseini/DH110-06/blob/f09f2191e3cda143f8256ba51f3f347d4657d35d/Screen%20Shot%202021-05-18%20at%201.33.11%20PM.png)
 
 
 ## Impression Test 
