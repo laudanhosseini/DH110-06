@@ -115,6 +115,7 @@ This is the script that I had set up for my user to help guide her through the n
 As the user completed these tasks, I found that most of my predictions were correct. The user struggled with finding the swipe portion of the "Made for You" and "New + Noteworthy" sections, but they did not seem to be phased by the lack of loading pages that were included in the prototype. I still think that moving forward, I would want to include some sort of progress signals, and I also maybe want to make the swipe feature more clear (either by changing the wording of the button or changing the font color). Other than these suggestions, the user stated that she found the tasks very easy to complete and did so faster than predicted. 
 
 Some direct quotes from the walkthrough: 
+
         * "I would rate the user-friendliness of the tasks an 8.5 out of 10, solely because the swiping part was the most difficult. Everything else was really easy to figure out"
         * "I liked how there were multiple buttons on the homepage that took me to the search engine"
         * "I liked how there were pictures included of the books because that makes it easier to recall when searching" 
