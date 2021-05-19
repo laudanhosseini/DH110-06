@@ -88,13 +88,28 @@ This is the script that I had set up for my user to help guide her through the n
 * once category selected, scroll through options or click "See More" to see more options
 
 ### Findings
-* Were you able to complete the tasks?
-    * Yes
-* From 1 to 10 (with 1 being the easiest), how difficult did you find each task to complete?
-    * Task 1 = 2
-    * Task 2 = 1
-* Are there any suggestions you have for each task to make it more user friendly?
-    * No, both tasks were very easy to complete. This was a strong improvement from the usability of the original application, where it was very difficult for me to find the search bar initially and successfully accomplish the first task. 
+**1) Will the user try and achieve the right outcome?**
+ (Is the interface based on the assumptions about a user’s level of experience or knowledge)
+    * Yes, the user is a college student female who is fairly knowledgable in technology and reading heavy texts for her classes. While she does not fit the exact target audience (senior citizens), she has the same reading level as the target audience and should be able to complete these tasks at a faster rate than would a senior citizen. 
+    
+**2) Will the user notice that the correct action is available to them?**
+(Is there any hidden or obscured controls?)
+    * The user should be able to find the buttons needed fairly easily, as most of them are either in large text or found on the homepage. The only issue I can predict occurring is the user struggling to "swipe" through the sections "Made for You" and "New + Noteworthy" on the homepage, as this interaction is different from the usual tap that the user has to do to get to other tabs. The swipe feature is more subtle and thus can be harder to figure out. 
+
+**3) Will the user associate the correct action with the outcome they expect to achieve?**
+(Are the instruction/button labels clear to understand?)
+    * Yes, the buttons are fairly labeled in large text or worded in a way that is clear to the user. For instance, the button "Search" or "Find books now!" clearly points to the reader that if clicked on, these buttons will help find the books you are looking for. 
+
+**4) If the correct action is performed; will the user see that progress is being made towards their intended outcome?**
+(Does the interface provide proper feedbacks? Any missing feedbacks or any moment that lacks consistency?)
+    * Currently, this interactive prototype does not have any "loading pages" included in the system, so the user can potentially lack in having visual updates, such as with download or loading progress. Everything else, however, clearly guides the user through the steps needed to be taken to achieve the desired goals. 
+    
+As the user completed these tasks, I found that most of my predictions were correct. The user struggled with finding the swipe portion of the "Made for You" and "New + Noteworthy" sections, but they did not seem to be phased by the lack of loading pages that were included in the prototype. I still think that moving forward, I would want to include some sort of progress signals, and I also maybe want to make the swipe feature more clear (either by changing the wording of the button or changing the font color). Other than these suggestions, the user stated that she found the tasks very easy to complete and did so faster than predicted. 
+    Some direct quotes from the walkthrough: 
+        * "I would rate the user-friendliness of the tasks an 8.5 out of 10, solely because the swiping part was the most difficult. Everything else was really easy to figure out"
+        * "I liked how there were multiple buttons on the homepage that took me to the search engine"
+        * "I liked how there were pictures included of the books because that makes it easier to recall when searching" 
+        * "I think there could be loading pages included in the prototype to enhance the user-friendliness, but I don't think not including them detracted from this experience"
 
 
 ## Design System 
