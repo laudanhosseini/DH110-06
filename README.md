@@ -46,7 +46,10 @@ This is the second most important part of the application, as this is where the 
 ![wireflow task 2](https://github.com/laudanhosseini/DH110-06/blob/cd2c029c264a4d632280f61b56d92d94f76009a1/Wireflow%20Task%202.png) 
 
 ## Interactive Prototype
-[Here](https://www.figma.com/proto/6XmInbhmQDJD6D55uRPXmR/Task-1-DH-110-6?scaling=scale-down&page-id=0%3A1&node-id=1%3A2), you can access the interactive prototype. 
+[Here](https://www.figma.com/proto/6XmInbhmQDJD6D55uRPXmR/Task-1-DH-110-6?node-id=1%3A2&scaling=scale-down&page-id=0%3A1), you can access the interactive prototype for **TASK 1**. 
+
+[Here](https://www.figma.com/proto/cd5HgXbY3RD3viLLKMnL7C/Task-2-DH-110-6?node-id=44%3A52&scaling=scale-down&page-id=0%3A1), you can access the interactive prototype for **TASK 2**. 
+
 
 ## Design Variations 
 (note: these variations are from the old prototype; the finalized version is different from these, as the final version is based on the suggestions made during the impression test and cognitive walkthrough)
