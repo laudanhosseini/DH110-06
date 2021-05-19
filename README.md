@@ -115,7 +115,7 @@ This is the script that I had set up for my user to help guide her through the n
 
   * Currently, this interactive prototype does not have any "loading pages" included in the system, so the user can potentially lack in having visual updates, such as with download or loading progress. Everything else, however, clearly guides the user through the steps needed to be taken to achieve the desired goals. 
     
-As the user completed these tasks, I found that most of my predictions were correct. The user struggled with finding the swipe portion of the "Made for You" and "New + Noteworthy" sections, but they did not seem to be phased by the lack of loading pages that were included in the prototype. I still think that moving forward, I would want to include some sort of progress signals, and I also maybe want to make the swipe feature more clear (either by changing the wording of the button or changing the font color). Other than these suggestions, the user stated that she found the tasks very easy to complete and did so faster than predicted. 
+As the user completed these tasks, I found that most of my predictions were correct. The user struggled with finding the swipe portion of the "Made for You" and "New + Noteworthy" sections, but they did not seem to be phased by the lack of loading pages that were included in the prototype. I still think that moving forward, I would want to include some sort of progress signals, and I also maybe want to make the swipe feature more clear (either by changing the wording of the button or changing the font color). She also found that the arrow buttons to go back to other pages were faulty and only some were working and only some of the time. This is something I definitely would want to look into and fix for the future. Other than these suggestions, the user stated that she found the tasks very easy to complete and did so faster than predicted. 
 
 Some direct quotes from the walkthrough: 
 
@@ -123,6 +123,7 @@ Some direct quotes from the walkthrough:
         * "I liked how there were multiple buttons on the homepage that took me to the search engine"
         * "I liked how there were pictures included of the books because that makes it easier to recall when searching" 
         * "I think there could be loading pages included in the prototype to enhance the user-friendliness, but I don't think not including them detracted from this experience"
+        * "The back button doesn't seem to be working"
 
 
 ## Design System 
@@ -153,7 +154,7 @@ This week, I took into account what my participant said during the Impression Te
    * added arrows to "Made for You" and "New Releases" so you can scroll sideways to see more options for more books
    * added more wireframes to create a more holistic picture of the interactive prototype 
  
-I wanted to add a more detailed wireframe and wireflow for each task so that the user can engage with the interactions and actually try to complete the tasks, as this was essential for the cognitive walkthrough. The walkthrough went much smoother than anticipated, and I am very pleased with how my prototype turned out as a result. The participant was able to really pretend to be a user and was able to complete the tasks efficiently and successfully. Pictured below are the old wireframes to show the changes that I made this week. Moving forward, I will try to refine a couple more things based on aesthetics, such as by finding a more refined "plus sign" graphic for the homepage. I will also potentially add a few more interactions to the prototype to create an even more detailed and holistic perception of the application. 
+I wanted to add a more detailed wireframe and wireflow for each task so that the user can engage with the interactions and actually try to complete the tasks, as this was essential for the cognitive walkthrough. The walkthrough went much smoother than anticipated, and I am very pleased with how my prototype turned out as a result. The participant was able to really pretend to be a user and was able to complete the tasks efficiently and successfully, except for the back buttons being faulty for some reason (I will fix this through Figma application). Pictured below are the old wireframes to show the changes that I made this week. Moving forward, I will try to refine a couple more things based on aesthetics, such as by finding a more refined "plus sign" graphic for the homepage. I will also potentially add a few more interactions to the prototype to create an even more detailed and holistic perception of the application. 
 
   ### Old Wireframes
 **Task 1**
